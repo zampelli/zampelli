@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zampelli
-- 👀 I’m interested in creating software solution
+- 👀 I’m interested in creating application and user experiences
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me info@zampelli.tech
